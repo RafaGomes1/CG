@@ -1,5 +1,8 @@
 # Computação Gráfica
 
+# Sistema Solar
+![Sistema](https://github.com/RafaGomes1/CG/blob/main/images/solarSystemComLuz.png?raw=true)
+
 <h3 align="center">🚀 Colaboradores 🚀</h3>
 
 <div align="center">
