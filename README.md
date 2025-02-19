@@ -4,31 +4,31 @@
 ![Sistema](https://github.com/RafaGomes1/CG/blob/main/images/solarSystemComLuz.png?raw=true)
 
 # Sol
-![Sol]()
+![Sol](https://github.com/RafaGomes1/CG/blob/main/images/sol.png?raw=true)
 
 # Mercúrio
-![Mercúrio]()
+![Mercúrio](https://github.com/RafaGomes1/CG/blob/main/images/Mercurio.png?raw=true)
 
 # Vénus
-![Vénus]()
+![Vénus](https://github.com/RafaGomes1/CG/blob/main/images/Venus.png?raw=true)
 
-# Terra
-![Terra]()
+# Terra e Lua
+![Terra](https://github.com/RafaGomes1/CG/blob/main/images/TerraELua.png?raw=true)
 
 # Marte
-![Marte]()
+![Marte](https://github.com/RafaGomes1/CG/blob/main/images/Marte.png?raw=true)
 
 # Júpiter
-![Júpiter]()
+![Júpiter](https://github.com/RafaGomes1/CG/blob/main/images/Jupiter.png?raw=true)
 
 # Saturno
-![Saturno]()
+![Saturno](https://github.com/RafaGomes1/CG/blob/main/images/Saturno.png?raw=true)
 
 # Urano
-![Urano]()
+![Urano](https://github.com/RafaGomes1/CG/blob/main/images/Urano.png?raw=true)
 
 # Neptuno
-![Neptuno]()
+![Neptuno](https://github.com/RafaGomes1/CG/blob/main/images/Neptuno.png?raw=true)
 
 ---
 
